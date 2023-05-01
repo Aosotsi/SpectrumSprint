@@ -6,7 +6,6 @@ Spectrum Sprint is a simple 2D game built with Pygame, where the player controls
 
 - Use the arrow keys to move the white ball around the grid
 - Collect all the glowing boxes before time runs out
-- Avoid collision with the other grids
 - Press the space bar to activate a bomb that destroys all the nearby glowing boxes
 
 ## Getting Started
