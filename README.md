@@ -1,12 +1,13 @@
-#Spectrum Sprint
 Spectrum Sprint is a simple arcade-style game in which the player must collect colorful boxes while avoiding obstacles. The game features randomly generated levels and increasing difficulty as the player progresses through the levels.
 
-##How to Play
+<b>How to Play</b>
+
 The goal of the game is to collect as many boxes as possible while avoiding obstacles. The player can move the white ball using the arrow keys. Each box the player collects adds one point to their score. If the white ball touches an obstacle, the game is over.
 
 Press the space bar to activate a bomb that destroys all the boxes within a certain radius.
 
-##Installation
+<b>Installation</b>
+
 Make sure you have Python 3.x installed on your computer
 Clone this repository or download the ZIP file and extract it
 Install the required packages using the command pip install -r requirements.txt
@@ -14,7 +15,8 @@ Run the game using the command python game.py
 License
 This project is licensed under the MIT License. Feel free to use and modify this code for your own projects.
 
-##Future Additions
+<b>Future Additions</b>
+
 Here are some potential additions that could be made to the game:
 
 -Sound effects and music
