@@ -15,10 +15,6 @@ Spectrum Sprint is a simple 2D game built with Pygame, where the player controls
 2. Install the required dependencies: `pip install pygame`
 3. Run the game: `python game.py`
 
-## License
-
-This project is licensed under the MIT License. Feel free to modify and distribute the code as you see fit.
-
 ## Potential Additions
 
 - Sound effects and background music
